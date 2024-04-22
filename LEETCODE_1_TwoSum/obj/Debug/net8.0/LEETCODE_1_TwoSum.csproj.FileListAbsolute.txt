@@ -1,0 +1,14 @@
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\LEETCODE_1_TwoSum\bin\Debug\net8.0\LEETCODE_1_TwoSum.exe
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\LEETCODE_1_TwoSum\bin\Debug\net8.0\LEETCODE_1_TwoSum.deps.json
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\LEETCODE_1_TwoSum\bin\Debug\net8.0\LEETCODE_1_TwoSum.runtimeconfig.json
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\LEETCODE_1_TwoSum\bin\Debug\net8.0\LEETCODE_1_TwoSum.dll
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\LEETCODE_1_TwoSum\bin\Debug\net8.0\LEETCODE_1_TwoSum.pdb
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\LEETCODE_1_TwoSum\obj\Debug\net8.0\LEETCODE_1_TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\LEETCODE_1_TwoSum\obj\Debug\net8.0\LEETCODE_1_TwoSum.AssemblyInfoInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\LEETCODE_1_TwoSum\obj\Debug\net8.0\LEETCODE_1_TwoSum.AssemblyInfo.cs
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\LEETCODE_1_TwoSum\obj\Debug\net8.0\LEETCODE_1_TwoSum.csproj.CoreCompileInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\LEETCODE_1_TwoSum\obj\Debug\net8.0\LEETCODE_1_TwoSum.dll
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\LEETCODE_1_TwoSum\obj\Debug\net8.0\refint\LEETCODE_1_TwoSum.dll
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\LEETCODE_1_TwoSum\obj\Debug\net8.0\LEETCODE_1_TwoSum.pdb
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\LEETCODE_1_TwoSum\obj\Debug\net8.0\LEETCODE_1_TwoSum.genruntimeconfig.cache
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\LEETCODE_1_TwoSum\obj\Debug\net8.0\ref\LEETCODE_1_TwoSum.dll
