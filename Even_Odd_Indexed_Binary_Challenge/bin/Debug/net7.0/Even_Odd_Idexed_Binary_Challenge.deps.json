@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Even_Odd_Idexed_Binary_Challenge/1.0.0": {
+        "runtime": {
+          "Even_Odd_Idexed_Binary_Challenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Even_Odd_Idexed_Binary_Challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\itsyb\OneDrive\Documents\LEET_CODE FOLDER\Even_Odd_Idexed_Binary_Challenge\bin\Debug\net7.0\Even_Odd_Idexed_Binary_Challenge.exe
+C:\Users\itsyb\OneDrive\Documents\LEET_CODE FOLDER\Even_Odd_Idexed_Binary_Challenge\bin\Debug\net7.0\Even_Odd_Idexed_Binary_Challenge.deps.json
+C:\Users\itsyb\OneDrive\Documents\LEET_CODE FOLDER\Even_Odd_Idexed_Binary_Challenge\bin\Debug\net7.0\Even_Odd_Idexed_Binary_Challenge.runtimeconfig.json
+C:\Users\itsyb\OneDrive\Documents\LEET_CODE FOLDER\Even_Odd_Idexed_Binary_Challenge\bin\Debug\net7.0\Even_Odd_Idexed_Binary_Challenge.dll
+C:\Users\itsyb\OneDrive\Documents\LEET_CODE FOLDER\Even_Odd_Idexed_Binary_Challenge\bin\Debug\net7.0\Even_Odd_Idexed_Binary_Challenge.pdb
+C:\Users\itsyb\OneDrive\Documents\LEET_CODE FOLDER\Even_Odd_Idexed_Binary_Challenge\obj\Debug\net7.0\Even_Odd_Idexed_Binary_Challenge.csproj.AssemblyReference.cache
+C:\Users\itsyb\OneDrive\Documents\LEET_CODE FOLDER\Even_Odd_Idexed_Binary_Challenge\obj\Debug\net7.0\Even_Odd_Idexed_Binary_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsyb\OneDrive\Documents\LEET_CODE FOLDER\Even_Odd_Idexed_Binary_Challenge\obj\Debug\net7.0\Even_Odd_Idexed_Binary_Challenge.AssemblyInfoInputs.cache
+C:\Users\itsyb\OneDrive\Documents\LEET_CODE FOLDER\Even_Odd_Idexed_Binary_Challenge\obj\Debug\net7.0\Even_Odd_Idexed_Binary_Challenge.AssemblyInfo.cs
+C:\Users\itsyb\OneDrive\Documents\LEET_CODE FOLDER\Even_Odd_Idexed_Binary_Challenge\obj\Debug\net7.0\Even_Odd_Idexed_Binary_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\itsyb\OneDrive\Documents\LEET_CODE FOLDER\Even_Odd_Idexed_Binary_Challenge\obj\Debug\net7.0\Even_Odd_Idexed_Binary_Challenge.dll
+C:\Users\itsyb\OneDrive\Documents\LEET_CODE FOLDER\Even_Odd_Idexed_Binary_Challenge\obj\Debug\net7.0\refint\Even_Odd_Idexed_Binary_Challenge.dll
+C:\Users\itsyb\OneDrive\Documents\LEET_CODE FOLDER\Even_Odd_Idexed_Binary_Challenge\obj\Debug\net7.0\Even_Odd_Idexed_Binary_Challenge.pdb
+C:\Users\itsyb\OneDrive\Documents\LEET_CODE FOLDER\Even_Odd_Idexed_Binary_Challenge\obj\Debug\net7.0\Even_Odd_Idexed_Binary_Challenge.genruntimeconfig.cache
+C:\Users\itsyb\OneDrive\Documents\LEET_CODE FOLDER\Even_Odd_Idexed_Binary_Challenge\obj\Debug\net7.0\ref\Even_Odd_Idexed_Binary_Challenge.dll
